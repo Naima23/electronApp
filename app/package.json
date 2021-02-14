@@ -1,0 +1,27 @@
+{
+  "name": "electronApp",
+  "version": "1.0.0",
+  "description": "My Electron app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Naima23/electronApp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Naima23/electronApp/issues"
+  },
+  "homepage": "https://github.com/Naima23/electronApp#readme",
+  "devDependencies": {
+    "electron": "^11.2.2"
+  },
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "electron-reload": "^1.5.0"
+  }
+}
